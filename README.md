@@ -16,4 +16,4 @@
 - Estabelecer **indicadores relevantes** conforme o tema analisado, priorizando a clareza e a utilidade dos indicadores para o público-alvo.
 - Apresentar o dashboard, considerando a clareza na comunicação dos resultados e aplicar as boas práticas do storytelling
 
-Apresentando o IDH  para aplicação EducaMA
+Apresentando o IDH  para aplicação EducaMA.
