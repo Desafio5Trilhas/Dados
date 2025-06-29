@@ -18,4 +18,4 @@
 
 Apresentando o IDH  para aplicação EducaMA.
 
-Link da página  no Power BI:
+Link da página  no Power BI https://app.powerbi.com/view?r=eyJrIjoiZWM3YjEzODYtYjAzNS00N2M2LWJmYTMtYzg3ZjE3NmY0ZjA0IiwidCI6ImIzYzAwMzk5LTEwNjEtNGEyOS04NWE2LWQxNWEyMzljM2FkNSJ9:
