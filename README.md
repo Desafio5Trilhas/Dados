@@ -15,3 +15,5 @@
 - Incorporar **filtros interativos** e **navegação amigável**, permitindo ao usuário explorar diferentes perspectivas dos dados.
 - Estabelecer **indicadores relevantes** conforme o tema analisado, priorizando a clareza e a utilidade dos indicadores para o público-alvo.
 - Apresentar o dashboard, considerando a clareza na comunicação dos resultados e aplicar as boas práticas do storytelling
+
+Apresentando o IDH  para aplicação EducaMA
