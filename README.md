@@ -17,3 +17,5 @@
 - Apresentar o dashboard, considerando a clareza na comunicação dos resultados e aplicar as boas práticas do storytelling
 
 Apresentando o IDH  para aplicação EducaMA.
+
+Link da página  no Power BI:
